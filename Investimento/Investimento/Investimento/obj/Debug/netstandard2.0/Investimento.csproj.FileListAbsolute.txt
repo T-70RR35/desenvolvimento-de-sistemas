@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\bin\Debug\netstandard2.0\Investimento.deps.json
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\bin\Debug\netstandard2.0\Investimento.dll
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\bin\Debug\netstandard2.0\ref\Investimento.dll
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\bin\Debug\netstandard2.0\Investimento.pdb
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.dll
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\ref\Investimento.dll
+C:\Users\Usuario\Desktop\Investimento\Investimento\Investimento\obj\Debug\netstandard2.0\Investimento.pdb

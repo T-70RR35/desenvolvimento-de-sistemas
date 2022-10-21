@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Investimento.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#736f6f" Padding="24" CornerRadius="0">
+            <Label Text="Financeiro" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Dolar: R$ 5,01"/>
+        <Label Text="Euro: R$ 5,52"/>
+        <Label Text="Ouro: R$ 321,84"/>
+        <Label Text="Bitcoin: R$ 197.107,15"/>
+
+        <Entry ClearButtonVisibility="WhileEditing" x:Name="edtvalor_in" Placeholder="Informe o valor investido" Keyboard="Numeric"/>
+
+        <StackLayout Orientation="Horizontal">
+            <RadioButton x:Name="Bdolar" Content="Dolar" HorizontalOptions="FillAndExpand"/>
+            <RadioButton x:Name="Beuro" Content="Euro" HorizontalOptions="FillAndExpand"/>
+            <RadioButton x:Name="Bouro" Content="Ouro" HorizontalOptions="FillAndExpand"/>
+            <RadioButton x:Name="Bbitcoin" Content="Bitcoin" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal" >
+            <Button x:Name="calcular" Text="Calcular" HorizontalOptions="FillAndExpand" Clicked="calcular_Clicked"/>
+            <Button x:Name="limpar" Text="Limpar" HorizontalOptions="FillAndExpand" Clicked="limpar_Clicked"/>
+        </StackLayout>
+
+        <Entry x:Name="edtvalor_conver" Placeholder="Valor convertido"  Keyboard="Numeric"/>
+
+        <Button x:Name="fechar" Text="Sair do aplicativo" Clicked="fechar_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

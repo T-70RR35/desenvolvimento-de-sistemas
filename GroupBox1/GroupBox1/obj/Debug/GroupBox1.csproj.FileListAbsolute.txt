@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\bin\Debug\GroupBox1.exe.config
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\bin\Debug\GroupBox1.exe
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\bin\Debug\GroupBox1.pdb
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.Form1.resources
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.exe
+C:\Users\Usuario\source\repos\GroupBox1\GroupBox1\obj\Debug\GroupBox1.pdb

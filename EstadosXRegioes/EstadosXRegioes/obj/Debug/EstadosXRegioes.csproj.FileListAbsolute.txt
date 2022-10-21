@@ -1,0 +1,22 @@
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.exe.config
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.exe
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.pdb
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.Form1.resources
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.Properties.Resources.resources
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.exe
+C:\Users\Usuario\Desktop\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.pdb
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.exe.config
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.exe
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\bin\Debug\EstadosXRegioes.pdb
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.AssemblyReference.cache
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.SuggestedBindingRedirects.cache
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.Form1.resources
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.Properties.Resources.resources
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.GenerateResource.cache
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.csproj.CoreCompileInputs.cache
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.exe
+D:\vinicius_godoi\Desenvolvimento de Sistemas\EstadosXRegioes\EstadosXRegioes\obj\Debug\EstadosXRegioes.pdb

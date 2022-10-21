@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\bin\Debug\Empresinha.exe.config
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\bin\Debug\Empresinha.exe
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\bin\Debug\Empresinha.pdb
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.Form1.resources
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.exe
+C:\Users\Usuario\Desktop\Nova pasta\Empresinha\Empresinha\obj\Debug\Empresinha.pdb

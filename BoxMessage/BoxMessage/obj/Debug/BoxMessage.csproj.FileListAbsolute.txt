@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\bin\Debug\BoxMessage.exe.config
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\bin\Debug\BoxMessage.exe
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\bin\Debug\BoxMessage.pdb
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.Form1.resources
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.exe
+C:\Users\Usuario\Desktop\Nova pasta\BoxMessage\BoxMessage\obj\Debug\BoxMessage.pdb

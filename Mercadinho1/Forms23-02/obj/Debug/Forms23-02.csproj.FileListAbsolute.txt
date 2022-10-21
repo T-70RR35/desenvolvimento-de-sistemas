@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\bin\Debug\Forms23-02.exe.config
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\bin\Debug\Forms23-02.exe
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\bin\Debug\Forms23-02.pdb
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23_02.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.exe
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23-02.pdb
+C:\Users\Usuario\Desktop\Forms\Forms23-02\Forms23-02\obj\Debug\Forms23_02.frmSupermercados.resources
